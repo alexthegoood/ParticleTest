@@ -1,0 +1,5 @@
+name: ParticleTest
+version: '1.0'
+main: org.atg.particleTest.ParticleTest
+api-version: '1.21'
+authors: [ AlexanderTheGoood ]
